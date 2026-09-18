@@ -1,0 +1,23 @@
+# MPLAB X generated output
+build/
+dist/
+.generated_files/
+
+# User- and machine-specific MPLAB settings
+nbproject/private/
+nbproject/Makefile-local-*.mk
+
+# Compiled objects, dependency files, and firmware images
+*.o
+*.o.d
+*.elf
+*.hex
+*.map
+
+# IDE and operating-system metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+

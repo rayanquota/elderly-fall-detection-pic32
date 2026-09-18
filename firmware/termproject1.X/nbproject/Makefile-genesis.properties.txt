@@ -1,0 +1,13 @@
+#
+#Thu Nov 27 18:25:04 EST 2025
+default.languagetoolchain.version=4.60
+default.Pack.dfplocation=/usr/local/MPLab/v6.20/packs/Microchip/PIC32MX_DFP/1.5.259
+conf.ids=default
+default.languagetoolchain.dir=/opt/microchip/xc32/v4.60/bin
+default.com-microchip-mplab-mdbcore-ICD3Tool-ICD3DbgToolManager.md5=474c0967ce892cfcdca57e22d8f62532
+default.com-microchip-mplab-nbide-toolchain-xc32-XC32LanguageToolchain.md5=1eaf555a844840d91945cb14109201c3
+host.id=dyny-g9rl-7
+configurations-xml=f4fb781358e7040084785311cf9775a6
+com-microchip-mplab-nbide-embedded-makeproject-MakeProject.md5=f612087c95360c842296d189edfe3321
+proj.dir=/home/student2/rqouta/MPLABXProjects/termproject1.X
+host.platform=linux
